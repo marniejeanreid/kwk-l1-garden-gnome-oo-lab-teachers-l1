@@ -6,6 +6,14 @@ class GardenGnome
     @hat_color = hat_color
   end
   
+  def hat_color
+    @hat_color
+  end
+  
+  def hat_color(color)
+    @hat_color = color
+  end
+  
   def personality
     @personality
   end
