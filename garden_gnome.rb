@@ -1,13 +1,13 @@
 # Code your instances here
 class GardenGnome
   
-  def initialize (personality)
-    @personality = "evil"
-  end
+  # def initialize (personality)
+  #   @personality = "evil"
+  # end
   
-  def personality
-    @personality
-  end
+  # def personality
+  #   @personality
+  # end
 
   def name
     @name
