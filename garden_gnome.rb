@@ -4,6 +4,10 @@ class GardenGnome
   def initialize (personality)
     @personality = "evil"
   end
+  
+  def personality
+    @personality
+  end
 
   def name
     @name
