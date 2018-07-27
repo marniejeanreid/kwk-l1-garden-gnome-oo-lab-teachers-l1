@@ -10,4 +10,5 @@ class GardenGnome
   
 end
 
-test_gnome = GardenGnome.new
+test_gnome = GardenGnome.new('Bob')
+puts test_gnome
